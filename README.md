@@ -6,3 +6,6 @@ python3 new_server.py
 
 cliente:
 python3 client.py
+
+arquivo py para envio:
+teste1.py
